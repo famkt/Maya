@@ -5,4 +5,4 @@ Repository for testing maya tools
     Simple script to profile a rig for performance issue
     
 **Skin Weight Rebalance**
-    A more refined method to convert skin weights from a higher maximum count to a lower maximum count
+    A way to convert skin weights from a higher to a lower maximum count
